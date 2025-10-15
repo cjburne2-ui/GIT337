@@ -1,0 +1,10 @@
+:root{
+    --color-dark-green: #166212;
+
+}
+
+header{
+    background-color: #166212;
+    font-weight: bold;
+    text-align: center;
+}
