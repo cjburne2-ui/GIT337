@@ -1,10 +1,10 @@
 :root{
-    --color-dark-green: #166212;
+    --pale-azure: #6cd4ff;
 
 }
 
 header{
-    background-color: #166212;
+    background-color: #6cd4ff;
     font-weight: bold;
     text-align: center;
 }
